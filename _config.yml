@@ -16,7 +16,7 @@
 title: S2L2 - Social Software Living Lab
 email: bfranca@unicamp.br
 description: >- # this means to ignore newlines until "baseurl:"
-  S2L2 stands for Social Software Living Lab. It aims to prepare students for responsible and ethical software development, using modern and innovative techniques, while they act as problem solvers using their skills to provide solutions for society. This way, students explore the concept of Social Software Engineering in practice when delivering social change (software) instruments for the community beyond the university.
+  S2L2 aims to prepare students for responsible and ethical software development, using modern and innovative techniques, while they act as problem solvers using their skills to provide solutions for society.
 #baseurl: "" # the subpath of your site, e.g. /blog
 domain: socialsoftwarelivinglab.github.io
 url: https://socialsoftwarelivinglab.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
