@@ -6,7 +6,7 @@ permalink: /about/
 
 Social Software Living Lab (S2L2) is a program that aims to prepare students for responsible and ethical software development using modern and innovative techniques. Students act as problem solvers, using their skills to provide solutions for society.
 
-## Motivation:
+### Motivation
 
 S2L2 arises from the vision that society must engage in the development of software intended for social services by understanding their problems and participating in the process of creating and validating systems.
 
@@ -14,23 +14,23 @@ Another issue motivating the emergence of S2L2 is the disconnection between acad
 
 Additionally, the program seeks to improve the preparation of students for the software development market, particularly concerning the social role of software.
 
-## S2L2 Implementation:
+### S2L2 Implementation
 
 The program activities take place everywhere since remote activities are welcome. Physically, it is hosted in the LASER laboratory at Unicamp.
 
 Project acquisition will be continuous, prioritizing initiatives with significant social impact. Partners include government agencies, NGOs, and companies, initially focusing on Campinas and expanding to other states.
 
-## Qualification and Training:
+### Qualification and Training
 
 Online and in-person training is offered, tailored to students' needs and ongoing projects. The S2L2 leverages distance learning platforms and practical on-demand courses, including emerging technologies like web development and mobile applications.
 
-## Projects Implementation:
+### Projects Implementation
 
 The adopted methodology integrates agile practices, Design Thinking, and Socially-Aware Design to ensure user-centered development and the delivery of functional software. Project execution includes mentoring by volunteer professionals and empirical-experimental studies to evaluate new technologies.
 
 Each project results in the delivery of functional software and associated documentation, ready for operational use. The accumulated learning is disseminated through scientific publications, feedback in training sessions, and promotional material to attract new projects and collaborators.
 
-## Team
+### Team
 
 The team includes undergraduate and graduate students from Unicamp, IT market volunteers, and collaborating professors from various fields. All members are committed to a Code of Conduct that promotes best development practices, ethics, social responsibility, and diversity.
 
