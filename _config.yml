@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: S2L2 - Social Software Living Lab
+title: Social Software Living Lab
+logo: /assets/S2L2logo.png
 email: bfranca@unicamp.br
 description: >- # this means to ignore newlines until "baseurl:"
-  S2L2 aims to prepare students for responsible and ethical software development, using modern and innovative techniques, while they act as problem solvers using their skills to provide solutions for society.
+  <br> S2L2 aims to prepare students for responsible and ethical software development, using modern and innovative techniques, while they act as problem solvers using their skills to provide solutions for society
 #baseurl: "" # the subpath of your site, e.g. /blog
 domain: socialsoftwarelivinglab.github.io
 url: https://socialsoftwarelivinglab.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
@@ -26,10 +27,10 @@ url: https://socialsoftwarelivinglab.github.io/ # the base hostname & protocol f
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
