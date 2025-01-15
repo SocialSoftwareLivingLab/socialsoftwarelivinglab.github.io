@@ -20,7 +20,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   <br> S2L2 aims to prepare students for responsible and ethical software development, using modern and innovative techniques, while they act as problem solvers using their skills to provide solutions for society
 #baseurl: "" # the subpath of your site, e.g. /blog
 domain: socialsoftwarelivinglab.github.io
-url: https://socialsoftwarelivinglab.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+url: https://socialsoftwarelivinglab.github.io # the base hostname & protocol for your site, e.g. http://example.com
+github:
+  is_project_page: true
+  is_user_page: false
+  repository_url: https://github.com/SocialSoftwareLivingLab/socialsoftwarelivinglab.github.io
+  repository_nwo: SocialSoftwareLivingLab/socialsoftwarelivinglab.github.io
+  github.owner_url: https://github.com/SocialSoftwareLivingLab
+  owner_name: SocialSoftwareLivingLab
 
 # twitter_username: jekyllrb
 # github_username:  jekyll
