@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-Social Software Living Lab (S2L2) is a program that aims to prepare students for responsible and ethical software development using modern and innovative techniques. Students act as problem solvers, using their skills to provide solutions for society.
+Social Software Living Lab (S2L2) program aims to prepare students for responsible and ethical software development using modern and innovative techniques. Students act as problem solvers, using their skills to provide solutions for society.
 
 ## Motivation
 
@@ -12,13 +12,7 @@ S2L2 arises from the vision that society must engage in the development of softw
 
 Another issue motivating the emergence of S2L2 is the disconnection between academia and industry in exploring scientific-technological solutions to scale software development. Methods and tools proposed in the scientific literature are often evaluated only experimentally in limited contexts. Empirical evaluations are essential for technology transfer, and this program seeks to conduct these evaluations in real-world software development contexts.
 
-Additionally, the program seeks to improve the preparation of students for the software development market, particularly concerning the social role of software.
-
-## S2L2 Implementation
-
-The program activities take place everywhere since remote activities are welcome. Physically, it is hosted in the LASER laboratory at Unicamp.
-
-Project acquisition will be continuous, prioritizing initiatives with significant social impact. Partners include government agencies, NGOs, and companies, initially focusing on Campinas and expanding to other states.
+Additionally, the program seeks to improve students' preparation for the software development market, particularly regarding software's social role.
 
 ## Qualification and Training
 
