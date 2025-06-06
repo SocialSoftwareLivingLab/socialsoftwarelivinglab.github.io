@@ -28,8 +28,6 @@ Each project results in the delivery of functional software and associated docum
 
 The team includes undergraduate and graduate students from Unicamp, IT market volunteers, and collaborating professors from various fields. All members are committed to a Code of Conduct that promotes best development practices, ethics, social responsibility, and diversity.
 
-**Coordinator**: Breno Bernard Nicolau de França [bfranca@unicamp.br](mailto:bfranca@unicamp.br)
-
 <br>
 # Projects
 
