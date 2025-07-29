@@ -4,7 +4,6 @@ title:  "Code of Conduct"
 date:   2023-09-21 11:23:18 -0300
 categories: general
 ---
-# Code of Conduct  
 **Social Software Living Lab (S2L2) – UNICAMP**  
 **Version:** 2023-09-21
 
