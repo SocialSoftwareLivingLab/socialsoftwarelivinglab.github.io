@@ -29,7 +29,7 @@ Each project results in the delivery of functional software and associated docum
 The team includes undergraduate and graduate students from Unicamp, IT market volunteers, and collaborating professors from various fields. All members are committed to a Code of Conduct that promotes best development practices, ethics, social responsibility, and diversity.
 
 <br>
-# Projects
+# S2L2 Log
 
 <div class="posts">
   {% for post in site.posts %}
